@@ -4,10 +4,10 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/Codetrotters124/PhotoGallery
+  - https://github.com/Codetrotters124/Reservations
+  - https://github.com/Codetrotters124/Menu
+  - 
 
 ## Table of Contents
 
