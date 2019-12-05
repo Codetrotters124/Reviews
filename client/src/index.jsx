@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import Menu from "./menu.jsx";
+import Reviews from "./reviews";
 
-ReactDOM.render(<App />, document.getElementById("menu"));
+ReactDOM.render(<Reviews />, document.getElementById("app"));
