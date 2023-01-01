@@ -9,7 +9,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "webpack": "^4.41.2"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
